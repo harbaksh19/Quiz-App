@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+body{
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.nextbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  
+}
